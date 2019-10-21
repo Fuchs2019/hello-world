@@ -1,1 +1,2 @@
 this is my java file
+Time to enter new text
